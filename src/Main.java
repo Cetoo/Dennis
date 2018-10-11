@@ -4,7 +4,7 @@ public class Main {
         String vorname = " Dennis";
         int alter = 25;
         String nachname = " Cetin";
-        String herkunft = "Deutschland";
+        String herkunft = "Bayern";
         String jahrgang = " 1993";
 
 
